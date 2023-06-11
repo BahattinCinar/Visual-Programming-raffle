@@ -1,0 +1,11 @@
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\Final Odev\bin\Debug\Final Odev.exe.config
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\Final Odev\bin\Debug\Final Odev.exe
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\Final Odev\bin\Debug\Final Odev.pdb
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\Final Odev\obj\Debug\Final Odev.csproj.AssemblyReference.cache
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\Final Odev\obj\Debug\Final Odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\Final Odev\obj\Debug\Final_Odev.Form1.resources
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\Final Odev\obj\Debug\Final_Odev.Properties.Resources.resources
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\Final Odev\obj\Debug\Final Odev.csproj.GenerateResource.cache
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\Final Odev\obj\Debug\Final Odev.csproj.CoreCompileInputs.cache
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\Final Odev\obj\Debug\Final Odev.exe
+C:\Users\ayten\OneDrive\Masaüstü\ABDCJSH\C#\Workspace\Final Odev\obj\Debug\Final Odev.pdb
